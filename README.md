@@ -1,2 +1,0 @@
-# ReactNativeTripPlanner
-React Native Project
